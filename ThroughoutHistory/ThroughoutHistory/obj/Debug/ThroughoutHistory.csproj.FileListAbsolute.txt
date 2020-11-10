@@ -1,0 +1,60 @@
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.Cache
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+\\kes4601-19-fsvr\user\13 intake\13JWaters\SharpDevelop Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojAssemblyReference.cache
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.cache
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.CoreCompileInputs.cache
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.Cache
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.Cache
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojAssemblyReference.cache
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.CoreCompileInputs.cache
+G:\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.Properties.Resources.resources
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojAssemblyReference.cache
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.Properties.Resources.resources
+\\kes4601-19-fsvr\user\13 intake\13JWaters\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.CoreCompileInputs.cache
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojAssemblyReference.cache
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.Properties.Resources.resources
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.cache
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+C:\Users\water\OneDrive\Documents\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
+E:\K.E.S Work\Visual Studio Projects\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.Properties.Resources.resources
+F:\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+F:\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojAssemblyReference.cache
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.Properties.Resources.resources
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.cache
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.CoreCompileInputs.cache
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+F:\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.exe
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\bin\Debug\ThroughoutHistory.pdb
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csprojAssemblyReference.cache
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.MainForm.resources
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.Properties.Resources.resources
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.GenerateResource.cache
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.csproj.CoreCompileInputs.cache
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.exe
+E:\K.E.S Work\Year 13\CS\Coursework\ThroughoutHistory\ThroughoutHistory\obj\Debug\ThroughoutHistory.pdb
